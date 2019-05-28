@@ -1,7 +1,6 @@
 name: demo_plugin
 description: A new Flutter project.
-version: 0.0.1
-author: Mr-Cai <1289181391@qq.com>
+version: 0.0.1author: Mr-Cai <1289181391@qq.com>
 homepage: https://github.com/Mr-Cai/demo_plugin
 
 environment:
