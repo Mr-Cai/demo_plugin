@@ -1,8 +1,8 @@
 name: demo_plugin
 description: A new Flutter project.
 version: 0.0.1
-author:
-homepage:
+author: Mr-Cai <1289181391@qq.com>
+homepage: https://github.com/Mr-Cai/demo_plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
