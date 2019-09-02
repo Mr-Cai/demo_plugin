@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: androidx.appcompat:appcompat:1.1.0-alpha03@aar" type="AndroidModuleLibraryType">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e597d2b2ec749feafcf1a8f67b8d96de/appcompat-1.1.0-alpha03/jars/classes.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
