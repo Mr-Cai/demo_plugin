@@ -15,3 +15,4 @@ class DemoPlugin {
     await _channel.invokeMethod('nativeToast', args);
   }
 }
+ 
